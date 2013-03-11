@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "./lib/index.js",
   "dependencies": {
-    "cassandra-orm": "git://github.com/rolandpoulter/node-cassandra-orm.git"
+    "cassandra-orm": "git://github.com/richtera/node-cassandra-orm.git"
   },
   "devDependencies": {
     "racer": ">=0.3.11"
