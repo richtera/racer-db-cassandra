@@ -6,7 +6,8 @@
   "dependencies": {
     "cassandra-orm": "git://github.com/richtera/node-cassandra-orm.git",
     "ansi-color": ">=0.2.1",
-    "solr-client": "0.2.5"
+    "solr-client": "git://github.com/richtera/solr-node-client",
+    "async": "0.1.22"
   },
   "devDependencies": {
     "racer": ">=0.3.11"
