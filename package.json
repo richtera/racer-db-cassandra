@@ -8,7 +8,7 @@
     "ansi-color": ">=0.2.1",
     "solr-client": "git://github.com/richtera/solr-node-client",
     "async": "0.1.22",
-    "zkjs": "3.4.*"
+    "zkjs": ">=3.4.0beta5"
   },
   "devDependencies": {
     "racer": ">=0.3.11"
